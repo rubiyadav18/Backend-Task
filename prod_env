@@ -1,0 +1,3 @@
+module.exports = {
+    mongoURL: "mongodb+srv://rubi:rubi@cluster0.264g2.mongodb.net/insta-project?retryWrites=true&w=majority",
+};
